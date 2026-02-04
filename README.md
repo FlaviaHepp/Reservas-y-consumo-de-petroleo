@@ -1,4 +1,4 @@
-# Análisis de reservas y consumo de petróleo en el mundo (1995–2022)
+# 🛢️Análisis de reservas y consumo de petróleo en el mundo (1995–2022)
 
 Este proyecto analiza la evolución de las **reservas mundiales de petróleo** y el **consumo global de petróleo** entre 1995 y 2022, utilizando datos históricos de múltiples fuentes oficiales.
 
@@ -98,9 +98,9 @@ Las visualizaciones permiten **interpretar patrones macroeconómicos y energéti
 
 - **Python**
 - **pandas, numpy**
-- **matplotlib, seaborn**
+- **matplotlib, `seaborn**`
 - **scikit-learn**
-- **missingno**
+- `**missingno**`
 
 ---
 
